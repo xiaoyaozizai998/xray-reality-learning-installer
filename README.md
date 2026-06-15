@@ -121,7 +121,7 @@ sudo APT_REFRESH=0 bash v2_xray_multi_user_limit_installer.sh install
 建议先下载、阅读，再运行。
 
 ```bash
-wget https://raw.githubusercontent.com/你的用户名/你的仓库名/main/v2_xray_multi_user_limit_installer.sh
+wget https://raw.githubusercontent.com/xiaoyaozizai998/xray-reality-learning-installer/main/v2_xray_multi_user_limit_installer.sh
 chmod +x v2_xray_multi_user_limit_installer.sh
 sudo bash v2_xray_multi_user_limit_installer.sh
 ```
