@@ -1,4 +1,4 @@
 *.log
 *.tar.gz
-*.env
-xray-diagnostic-*
+*.zip
+.DS_Store
